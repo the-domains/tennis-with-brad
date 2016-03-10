@@ -1,0 +1,28 @@
+name: Tennis with Brad
+favicon: null
+layout_spectrum: 0.2458278622943908
+typography_spectrum: 0.07849505846388638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33844166016206145
+  lightness: 0.33493567630648613
+  saturation: 0.2779271574690938
+  rhythmicContrast: 0.591034461511299
+purpose: []
